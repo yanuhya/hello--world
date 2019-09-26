@@ -1,0 +1,48 @@
+{
+  "id": "0",
+  "name": "A",
+  "children": [
+    {
+      "id": "1"
+      "name": "B",
+      "children": [
+        {
+          "id": "2",
+          "name": "D"
+        },
+        {
+          "id": "3",
+          "name": "E"
+        },
+        {
+          "id": "4",
+          "name":"F",
+          "children": [
+            {
+              "id": "5",
+              "name": "G"
+            },
+            {
+              "id": 6,
+              "name": "H"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "F",
+      "children": [
+        {
+          "id": "5",
+          "name": "G"
+        },
+        {
+          "id": "6",
+          "name": "H"
+        }
+      ]
+    }
+  ]
+}
